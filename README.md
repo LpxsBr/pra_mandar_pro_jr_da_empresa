@@ -6,6 +6,7 @@
 
 - Fazer um fork do repo
 - Criar uma branch no padrão `[username]-teste` para commitar nela
+- Não usar IA :)
 
 
 ### Ao finalizar
